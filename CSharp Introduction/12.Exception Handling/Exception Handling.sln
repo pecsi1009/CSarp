@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ReadsCalculatePrintInt", "1.ReadsCalculatePrintInt\1.ReadsCalculatePrintInt.csproj", "{9B5F9483-AD30-43BF-9161-E04D81B36517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1CC89845-7DCA-4912-BA05-ED705E631AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MethodReadNumberThrowException", "2.MethodReadNumberThrowException\2.MethodReadNumberThrowException.csproj", "{6419804A-5DFC-4046-8503-596F8F102A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ReadTextInFile", "3.ReadTextInFile\3.ReadTextInFile.csproj", "{5A8611CA-AC23-4702-B4D1-BAAE610E6D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.DownloadFileFromWeb", "4.DownloadFileFromWeb\4.DownloadFileFromWeb.csproj", "{617706CA-162B-4792-AFBA-B5959EB40994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5F9483-AD30-43BF-9161-E04D81B36517}.Debug|x86.ActiveCfg = Debug|x86
+		{9B5F9483-AD30-43BF-9161-E04D81B36517}.Debug|x86.Build.0 = Debug|x86
+		{9B5F9483-AD30-43BF-9161-E04D81B36517}.Release|x86.ActiveCfg = Release|x86
+		{9B5F9483-AD30-43BF-9161-E04D81B36517}.Release|x86.Build.0 = Release|x86
+		{1CC89845-7DCA-4912-BA05-ED705E631AB6}.Debug|x86.ActiveCfg = Debug|x86
+		{1CC89845-7DCA-4912-BA05-ED705E631AB6}.Debug|x86.Build.0 = Debug|x86
+		{1CC89845-7DCA-4912-BA05-ED705E631AB6}.Release|x86.ActiveCfg = Release|x86
+		{1CC89845-7DCA-4912-BA05-ED705E631AB6}.Release|x86.Build.0 = Release|x86
+		{6419804A-5DFC-4046-8503-596F8F102A0E}.Debug|x86.ActiveCfg = Debug|x86
+		{6419804A-5DFC-4046-8503-596F8F102A0E}.Debug|x86.Build.0 = Debug|x86
+		{6419804A-5DFC-4046-8503-596F8F102A0E}.Release|x86.ActiveCfg = Release|x86
+		{6419804A-5DFC-4046-8503-596F8F102A0E}.Release|x86.Build.0 = Release|x86
+		{5A8611CA-AC23-4702-B4D1-BAAE610E6D7F}.Debug|x86.ActiveCfg = Debug|x86
+		{5A8611CA-AC23-4702-B4D1-BAAE610E6D7F}.Debug|x86.Build.0 = Debug|x86
+		{5A8611CA-AC23-4702-B4D1-BAAE610E6D7F}.Release|x86.ActiveCfg = Release|x86
+		{5A8611CA-AC23-4702-B4D1-BAAE610E6D7F}.Release|x86.Build.0 = Release|x86
+		{617706CA-162B-4792-AFBA-B5959EB40994}.Debug|x86.ActiveCfg = Debug|x86
+		{617706CA-162B-4792-AFBA-B5959EB40994}.Debug|x86.Build.0 = Debug|x86
+		{617706CA-162B-4792-AFBA-B5959EB40994}.Release|x86.ActiveCfg = Release|x86
+		{617706CA-162B-4792-AFBA-B5959EB40994}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

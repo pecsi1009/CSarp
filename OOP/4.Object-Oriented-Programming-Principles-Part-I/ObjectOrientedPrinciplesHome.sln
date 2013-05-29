@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ClassDiagram", "ObjectOrientedPrinciplesHome\1.ClassDiagram.csproj", "{D799DAD6-A8C3-416A-9A37-2275C1971E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.HumanClass", "2.HumanClass\2.HumanClass.csproj", "{B253589A-8044-4E8B-B7CA-06550B272494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Animals", "3.Animals\3.Animals.csproj", "{8B20191A-9BA5-4598-87F5-10FC2C8EAA38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D799DAD6-A8C3-416A-9A37-2275C1971E1B}.Debug|x86.ActiveCfg = Debug|x86
+		{D799DAD6-A8C3-416A-9A37-2275C1971E1B}.Debug|x86.Build.0 = Debug|x86
+		{D799DAD6-A8C3-416A-9A37-2275C1971E1B}.Release|x86.ActiveCfg = Release|x86
+		{D799DAD6-A8C3-416A-9A37-2275C1971E1B}.Release|x86.Build.0 = Release|x86
+		{B253589A-8044-4E8B-B7CA-06550B272494}.Debug|x86.ActiveCfg = Debug|x86
+		{B253589A-8044-4E8B-B7CA-06550B272494}.Debug|x86.Build.0 = Debug|x86
+		{B253589A-8044-4E8B-B7CA-06550B272494}.Release|x86.ActiveCfg = Release|x86
+		{B253589A-8044-4E8B-B7CA-06550B272494}.Release|x86.Build.0 = Release|x86
+		{8B20191A-9BA5-4598-87F5-10FC2C8EAA38}.Debug|x86.ActiveCfg = Debug|x86
+		{8B20191A-9BA5-4598-87F5-10FC2C8EAA38}.Debug|x86.Build.0 = Debug|x86
+		{8B20191A-9BA5-4598-87F5-10FC2C8EAA38}.Release|x86.ActiveCfg = Release|x86
+		{8B20191A-9BA5-4598-87F5-10FC2C8EAA38}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

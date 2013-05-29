@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bank.Account" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAAAAAAAAgACAAAAAEAAAIAAAAIAAAAAAA=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bank.Deposit" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <InheritanceLine Type="Bank.Account" FixedFromPoint="true">
+      <Path>
+        <Point X="2.625" Y="1.259" />
+        <Point X="2.625" Y="1.625" />
+        <Point X="1.25" Y="1.625" />
+        <Point X="1.25" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Deposit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bank.Loan" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="Bank.Account" FixedFromPoint="true">
+      <Path>
+        <Point X="3.062" Y="1.259" />
+        <Point X="3.062" Y="2.125" />
+        <Point X="3" Y="2.125" />
+        <Point X="3" Y="2.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAI=</HashCode>
+      <FileName>Loan.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bank.Mortgage" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Mortgage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bank.Customer">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Individual" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <InheritanceLine Type="Bank.Customer" FixedFromPoint="true">
+      <Path>
+        <Point X="7.875" Y="2.288" />
+        <Point X="7.875" Y="2.625" />
+        <Point X="7.25" Y="2.625" />
+        <Point X="7.25" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Individual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Comapany" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <InheritanceLine Type="Bank.Customer" FixedFromPoint="true">
+      <Path>
+        <Point X="8.188" Y="2.288" />
+        <Point X="8.188" Y="2.625" />
+        <Point X="9" Y="2.625" />
+        <Point X="9" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comapany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

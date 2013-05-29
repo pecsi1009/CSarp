@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbit", "Rabbit\Rabbit.csproj", "{85A22C8F-B35B-4585-9327-8A3B114083CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{80AF0937-3DEA-4000-AC04-989EF970BE25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85A22C8F-B35B-4585-9327-8A3B114083CC}.Debug|x86.ActiveCfg = Debug|x86
+		{85A22C8F-B35B-4585-9327-8A3B114083CC}.Debug|x86.Build.0 = Debug|x86
+		{85A22C8F-B35B-4585-9327-8A3B114083CC}.Release|x86.ActiveCfg = Release|x86
+		{85A22C8F-B35B-4585-9327-8A3B114083CC}.Release|x86.Build.0 = Release|x86
+		{80AF0937-3DEA-4000-AC04-989EF970BE25}.Debug|x86.ActiveCfg = Debug|x86
+		{80AF0937-3DEA-4000-AC04-989EF970BE25}.Debug|x86.Build.0 = Debug|x86
+		{80AF0937-3DEA-4000-AC04-989EF970BE25}.Release|x86.ActiveCfg = Release|x86
+		{80AF0937-3DEA-4000-AC04-989EF970BE25}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
