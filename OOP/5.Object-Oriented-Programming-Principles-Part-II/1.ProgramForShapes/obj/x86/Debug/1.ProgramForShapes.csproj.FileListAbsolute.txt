@@ -1,0 +1,7 @@
+C:\Documents and Settings\Petya\Desktop\OOP\Object-Oriented-Programming-Principles-Part-II\1OOPPrinciplesPartIIHomework\1.ProgramForShapes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Petya\Desktop\OOP\Object-Oriented-Programming-Principles-Part-II\1OOPPrinciplesPartIIHomework\1.ProgramForShapes\bin\Debug\1.ProgramForShapes.exe
+C:\Documents and Settings\Petya\Desktop\OOP\Object-Oriented-Programming-Principles-Part-II\1OOPPrinciplesPartIIHomework\1.ProgramForShapes\bin\Debug\1.ProgramForShapes.pdb
+C:\Documents and Settings\Petya\Desktop\OOP\Object-Oriented-Programming-Principles-Part-II\1OOPPrinciplesPartIIHomework\1.ProgramForShapes\obj\x86\Debug\1.ProgramForShapes.exe
+C:\Documents and Settings\Petya\Desktop\OOP\Object-Oriented-Programming-Principles-Part-II\1OOPPrinciplesPartIIHomework\1.ProgramForShapes\obj\x86\Debug\1.ProgramForShapes.pdb
+C:\Documents and Settings\Poli\Desktop\New Folder\1OOPPrinciplesPartIIHomework\1.ProgramForShapes\obj\x86\Debug\1.ProgramForShapes.exe
+C:\Documents and Settings\Poli\Desktop\New Folder\1OOPPrinciplesPartIIHomework\1.ProgramForShapes\obj\x86\Debug\ResolveAssemblyReference.cache
